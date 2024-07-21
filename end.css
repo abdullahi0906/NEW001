@@ -1,0 +1,14 @@
+h3{
+    color: yellow;
+    background-color: purple;
+    font-size: 20px;
+    border: solid;
+    border-radius: 10px;
+}
+h4{
+    color: hotpink;
+    background-color: green;
+    font-size: 30px;
+    border: solid;
+    border-radius: 15px;
+}
